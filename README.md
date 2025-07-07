@@ -1,3 +1,4 @@
+![GreenSavor Portfolio Banner](https://github.com/jaidharshini/digital-marketing-portfolio-green-savor/blob/main/GreenSavor_Portfolio_Banner.png)
 # Jai Dharshini – Digital Marketing Portfolio
 
 This repository contains *GreenSavor Mini Digital Marketing Portfolio*
